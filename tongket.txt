@@ -1,0 +1,18 @@
+1.
+cách gọi ulr của fw
+- domain.com/index.php/ten class/phuong thức/tham số
+
+cài đặt codeigniter
+tao db
+khai báo kết nối
+sử dụng active record class
+- select
+- insert
+- update
+- delete
+- where, limit
+
+2.
+update, delete, add dữ liệu
+dùng library
+
